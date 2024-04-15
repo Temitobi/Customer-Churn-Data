@@ -1,4 +1,4 @@
-# Customer Churn Data
+# Exploratory Analysis of Customer Churn in a Telecom Company
 ## Overview
 This dataset contains all relevant customer data collected over the specified period. The data covers a range of variables such as customer ID, demogrphics, usage metrics and transaction history. It provides information about customers who have canceled their subscription, stopped using the service or made no purchases within a specific time.
 ## Aim
@@ -76,10 +76,16 @@ Each row represents a customer, each column contains customer’s attributes des
 ## Methodology
 * Data cleaning and Transformation
 * Data Modelling
-* Data Visualization
-
+* Data Visualization   
 ## Data Analytics Tools
 * Power Bi
+
+## Data Visualization
+![img](Landing_Page.PNG)
+![img](Customer_Churn.PNG)
+![img](Customer_Risk.PNG)
+![img](Services.PNG)
+
 
 ## Insights
 * Male customer, dependent customers, senior citizens and customers without partners are more likely to churn.
